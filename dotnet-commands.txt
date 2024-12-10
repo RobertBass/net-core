@@ -1,0 +1,13 @@
+dotnet new
+dotnet new --list
+dotnet new [type]
+dotnet run
+dotnet watch run
+dotnet build
+dotnet build --configuration [release, debug]
+dotnet clean
+dotnet new globaljson
+
+# MANEJADOR DE PAQUETES DOTNET
+nuget.org
+
